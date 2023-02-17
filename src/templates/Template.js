@@ -1,5 +1,4 @@
 import getData from '@utils/getData.js';
-console.log('hola');
 import github from '@images/github.png';
 import twitter from '@images/twitter.png';
 import instagram from '@images/instagram.png';
