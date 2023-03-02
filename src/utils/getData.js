@@ -1,5 +1,5 @@
-// const API = process.env.API;
-const API = 'https://randomuser.me/api/';
+const API = process.env.API;
+
 
 console.log('aqui empezo el getdata');
 
