@@ -1,2 +1,2 @@
 const fs = require('fs');
-fs.writeFileSync('./.env', 'API=https://randomuser.me/api/\n')  
+fs.writeFileSync('./.env', 'API=${process.env.API}\n')  
